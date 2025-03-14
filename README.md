@@ -31,7 +31,7 @@ reference_seq = read_fasta("reference.fna")  # replace with your reference file
 target_seq = read_fasta("target.fna")  # Replace with your target file
 ```
 
-Replace the filenames with the path of the files you want to use and run.
+Replace the filenames with the path of the files you want to use and run. You must have the sequences saved in **FASTA format.**
 
 ### Visualize the Output
 
